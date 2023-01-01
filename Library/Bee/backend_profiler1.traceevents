@@ -1,0 +1,720 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1672225988599694, "dur":1233, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225988600934, "dur":127, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1672225988601095, "dur":19, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1672225988601115, "dur":480, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1672225988601614, "dur":606, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225988602220, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989205757, "dur":330, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206087, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206098, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206100, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206107, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206108, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206114, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206116, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206121, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206123, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206128, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206130, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206135, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206136, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206142, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206143, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206148, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206150, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206155, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206157, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206162, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206163, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206169, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206170, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206176, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206177, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206182, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206184, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206189, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206190, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206196, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206197, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206203, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206218, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989206275, "dur":1974, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1672225988601645, "dur":579, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988602225, "dur":3968, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988606204, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1672225988606205, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988606261, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1672225988606263, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988606304, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988607118, "dur":1364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1672225988608483, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1672225988608516, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988608548, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988608775, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1672225988609600, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988609633, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988609666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988609843, "dur":1361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988611231, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing.exe" }}
+,{ "pid":12345, "tid":1, "ts":1672225988611266, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988611293, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988611296, "dur":50968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing.exe" }}
+,{ "pid":12345, "tid":1, "ts":1672225988662307, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988662380, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988662417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988662452, "dur":24558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988687063, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988687177, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988687250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988687260, "dur":32893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988720209, "dur":10510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988730720, "dur":2351, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988733083, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988733096, "dur":59195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988792344, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988792465, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988792522, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988792533, "dur":23698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988816273, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988816359, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988816402, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988816409, "dur":22253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988838704, "dur":40482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988879187, "dur":826, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988880020, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988880103, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988881191, "dur":823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988882015, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988882093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988882104, "dur":1491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988883639, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988883738, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988883788, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988883802, "dur":85548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988969403, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225988969517, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988969574, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672225988969585, "dur":125913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672225989095550, "dur":110222, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988601689, "dur":544, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988602233, "dur":3967, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988606205, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1672225988606309, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988606433, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988665378, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1672225988666306, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988666396, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988666440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988666446, "dur":27818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988694313, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988694426, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988694473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988694483, "dur":69112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988763648, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988763759, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988763850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988763861, "dur":46331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988810255, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988810340, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988810389, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988810395, "dur":109188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988919625, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988919714, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988919766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988919774, "dur":32829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988952651, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225988952754, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988952806, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672225988952815, "dur":124070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672225989076936, "dur":128819, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988601682, "dur":546, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988602228, "dur":3979, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988606208, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1672225988606373, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988606466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988673756, "dur":895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1672225988674700, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988674803, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988674854, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988674862, "dur":36902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988711808, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988711929, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988712022, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988712034, "dur":41594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988753681, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988753783, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988753829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988753837, "dur":43325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988797207, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988797295, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988797365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988797374, "dur":64428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988861848, "dur":33950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988895799, "dur":1674, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988897481, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988897492, "dur":1055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988898595, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225988898696, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988898746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672225988898755, "dur":178501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672225989077297, "dur":128455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988601707, "dur":529, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988602237, "dur":3964, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988606204, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1672225988606290, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988606363, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988609976, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1672225988610819, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1672225988610888, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988610931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988610936, "dur":50506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1672225988661488, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988661592, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988661703, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988662048, "dur":21733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988683823, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988683900, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988683941, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988683947, "dur":66428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988750429, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988750533, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988750592, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988750602, "dur":21747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988772408, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988772496, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988772611, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988772630, "dur":51126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988823796, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988823886, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988823933, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988823941, "dur":33150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988857134, "dur":44025, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988901159, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988901262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988901269, "dur":2231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988903539, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988903620, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988903666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988903675, "dur":69357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988973075, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225988973169, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988973217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225988973227, "dur":39279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225989012551, "dur":107350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225989119902, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225989119959, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672225989119968, "dur":1085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672225989121086, "dur":84683, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988601747, "dur":494, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988602241, "dur":3961, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988606204, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1672225988606362, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988606456, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988673359, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1672225988675228, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225988675317, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988675365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988675372, "dur":29283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225988704697, "dur":124994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225988829693, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988829792, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988829804, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225988832302, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225988832425, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988832499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988832510, "dur":121387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225988953943, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225988954024, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988954075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672225988954083, "dur":144726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672225989098839, "dur":106929, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988601783, "dur":462, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988602245, "dur":3953, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988606206, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1672225988606325, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988606434, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988669645, "dur":840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1672225988670534, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988670641, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988670687, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988670694, "dur":32286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988703028, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988703132, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988703201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988703212, "dur":45130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988749397, "dur":4740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988754138, "dur":2782, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988756933, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988756945, "dur":38914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988795910, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988795998, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988796044, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988796052, "dur":31434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988827540, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988827657, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988827710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988827720, "dur":45861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988873628, "dur":2594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988876223, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988876281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988876292, "dur":3608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988879949, "dur":28870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988908820, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988908919, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988908932, "dur":1052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988910024, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988910117, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988910225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988910234, "dur":29155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988939437, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988939544, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988939593, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988939602, "dur":35843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988975490, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225988975577, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988975622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672225988975632, "dur":230058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672225989205721, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1672225989205723, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988601826, "dur":423, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988602250, "dur":3949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988606204, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1672225988606286, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988606381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988661526, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1672225988662570, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988662641, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988662690, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988662697, "dur":43878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988706627, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988706728, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988706822, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988706831, "dur":41445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988748324, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988748416, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988748465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988748472, "dur":25579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988774094, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988774185, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988774232, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988774241, "dur":34457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988808739, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988808841, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988808967, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988808975, "dur":33172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988842191, "dur":88632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988930824, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988930910, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988930920, "dur":1302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988932265, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225988932369, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988932419, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672225988932427, "dur":183195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672225989115657, "dur":90106, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988601862, "dur":390, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988602252, "dur":3953, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988606205, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1672225988606403, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988606488, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988678675, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1672225988679612, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988679710, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988679762, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988679771, "dur":39549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988719372, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988719493, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988719548, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988719559, "dur":67095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988786698, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988786771, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988786813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988786820, "dur":23075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988809959, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988810035, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988810082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988810089, "dur":22441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988832575, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988832656, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988832702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988832708, "dur":38487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988871242, "dur":2762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988874005, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988874065, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988874076, "dur":1828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988875952, "dur":24837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988900790, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988900980, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988900992, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988903516, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988903620, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988903668, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988903675, "dur":71776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988975498, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225988975580, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988975630, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672225988975637, "dur":169932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672225989145598, "dur":60162, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988601883, "dur":373, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988602256, "dur":3948, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988606208, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1672225988606332, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988606449, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988669861, "dur":812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1672225988670717, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988670800, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988670873, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988670880, "dur":104451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988775378, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988775464, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988775519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988775527, "dur":32291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988807864, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988807975, "dur":517, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988808500, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988808510, "dur":30956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988839504, "dur":78666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988918172, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988918244, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988918254, "dur":1515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988919806, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225988919886, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988919932, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672225988919938, "dur":177424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672225989097408, "dur":108359, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988601906, "dur":354, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988602260, "dur":3950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988606212, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1672225988606429, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988606509, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988681036, "dur":2684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1672225988683778, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988683855, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988683985, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988683991, "dur":63474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988747518, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988747600, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988747686, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988747693, "dur":26976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988774716, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988774804, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988774852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988774887, "dur":34770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988809697, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988809789, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988809834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988809841, "dur":29557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988839443, "dur":83775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988923218, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988923386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988923396, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988925336, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225988925435, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988925484, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672225988925492, "dur":196422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672225989121943, "dur":83833, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988601927, "dur":337, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988602264, "dur":3946, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988606210, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1672225988606294, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988606353, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988609819, "dur":915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1672225988610777, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988610813, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988610842, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988610846, "dur":50591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988661488, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988661602, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988661670, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988662031, "dur":71396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988733473, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988733572, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988733616, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988733623, "dur":38555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988772237, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988772350, "dur":277, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988772634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988772642, "dur":22959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988795653, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988795765, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988795814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988795825, "dur":28474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988824350, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988824450, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988824507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225988824515, "dur":24490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225988849053, "dur":238886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225989087940, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225989088011, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672225989088022, "dur":1223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672225989089291, "dur":116468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988601943, "dur":324, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988602267, "dur":3939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988606207, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1672225988606281, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988606397, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988661969, "dur":790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1672225988662800, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988662866, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988662900, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988662904, "dur":44404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988707350, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988707438, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988707579, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988707586, "dur":44189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988751829, "dur":553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988752382, "dur":1138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988753530, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988753543, "dur":28102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988781697, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988781809, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988781861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988781872, "dur":29955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988811875, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988811998, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988812050, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988812061, "dur":22300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988834405, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988834495, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988834541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988834549, "dur":28104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988862697, "dur":21525, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988884223, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988884281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988884289, "dur":944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988885276, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988885375, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988885507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988885515, "dur":58607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988944171, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225988944273, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988944349, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672225988944358, "dur":141664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672225989086067, "dur":119684, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988602030, "dur":251, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988602281, "dur":3922, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988606204, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1672225988606280, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988606334, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988608028, "dur":595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1672225988608652, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1672225988608682, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988608747, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988608751, "dur":571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1672225988609348, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1672225988609376, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988609399, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988609404, "dur":1221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1672225988610664, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988610705, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988610732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988610778, "dur":50522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988661354, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1672225988661405, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988661463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988661723, "dur":5118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1672225988666888, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988666973, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988667012, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988667018, "dur":37676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988704742, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988704821, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988704863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988704870, "dur":42064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988746997, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988747111, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988747185, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988747196, "dur":39073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988786320, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988786506, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988786577, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988786584, "dur":97113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988883739, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225988883819, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988883862, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672225988883868, "dur":230515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672225989114415, "dur":91350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988601965, "dur":305, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988602270, "dur":3944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988606214, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1672225988606286, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988606409, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988664937, "dur":907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1672225988665898, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988666018, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988666093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988666101, "dur":44265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988710426, "dur":446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988710873, "dur":1453, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988712357, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988712365, "dur":103293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988815708, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988815863, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988815922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988815933, "dur":23819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988839796, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988839878, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988839958, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988839969, "dur":56680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988896702, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225988896816, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988896867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225988896876, "dur":161840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672225989058764, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1672225989058810, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225989058816, "dur":4288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1672225989063149, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level3.resS" }}
+,{ "pid":12345, "tid":14, "ts":1672225989063272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672225989063279, "dur":24220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level3.resS" }}
+,{ "pid":12345, "tid":14, "ts":1672225989087544, "dur":118217, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988601992, "dur":282, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988602274, "dur":3941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988606215, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1672225988606387, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988606483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988674087, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1672225988676894, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988676989, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988677036, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988677044, "dur":26987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988704075, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988704187, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988704243, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988704252, "dur":151003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988855304, "dur":2932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988858236, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988858317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988858327, "dur":3448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988861825, "dur":1640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988863466, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988863528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988863564, "dur":892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988864493, "dur":48858, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988913352, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988913436, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988913447, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988914424, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225988914517, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988914561, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225988914568, "dur":101788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672225989016404, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":15, "ts":1672225989016531, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989016596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989018116, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":15, "ts":1672225989019116, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":15, "ts":1672225989019846, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989019964, "dur":1251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":15, "ts":1672225989021256, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":15, "ts":1672225989021309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989021317, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":15, "ts":1672225989024392, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672225989024443, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989024451, "dur":20512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672225989045023, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":15, "ts":1672225989045077, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989045087, "dur":8619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":15, "ts":1672225989053753, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672225989053807, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989053821, "dur":1114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672225989054980, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":15, "ts":1672225989055025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989055035, "dur":832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":15, "ts":1672225989055905, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":15, "ts":1672225989055949, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989055961, "dur":4162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":15, "ts":1672225989060172, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1672225989060309, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989060360, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989060369, "dur":1083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1672225989061489, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672225989061533, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989061541, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672225989063492, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level3" }}
+,{ "pid":12345, "tid":15, "ts":1672225989063535, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989063540, "dur":8752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level3" }}
+,{ "pid":12345, "tid":15, "ts":1672225989072339, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1672225989072386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989072395, "dur":1633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1672225989074068, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1672225989074112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672225989074121, "dur":1898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1672225989076058, "dur":129695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988602011, "dur":266, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988602277, "dur":3931, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988606211, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1672225988606419, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988606506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988680287, "dur":3165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1672225988683500, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988683600, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988683645, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988683655, "dur":29038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988712735, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988712836, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988712887, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988712894, "dur":35572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988748513, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988748608, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988748659, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988748692, "dur":37540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988786285, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988786501, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988786564, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988786573, "dur":36713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988823333, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988823445, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988823516, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988823526, "dur":55745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988879319, "dur":13224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988892545, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988892623, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988892633, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988893635, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988893732, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988893781, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225988893789, "dur":89784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225988983615, "dur":47190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225989030807, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989030927, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989030942, "dur":1071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672225989032060, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":16, "ts":1672225989032114, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989032122, "dur":4448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":16, "ts":1672225989036625, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989036686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989036724, "dur":21861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989058639, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989058713, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989058724, "dur":2566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989061327, "dur":726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":16, "ts":1672225989062053, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989062106, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989062114, "dur":827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":16, "ts":1672225989062981, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1672225989063068, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989063074, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1672225989065788, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level2.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989065838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989065848, "dur":1960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level2.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989067853, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level2" }}
+,{ "pid":12345, "tid":16, "ts":1672225989067904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989067916, "dur":1120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level2" }}
+,{ "pid":12345, "tid":16, "ts":1672225989069076, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989069117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989069125, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989070623, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1672225989070668, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989070681, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1672225989071649, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level0.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989071692, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989071700, "dur":1088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/level0.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672225989072823, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":16, "ts":1672225989072867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989072873, "dur":1441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":16, "ts":1672225989074359, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/boot.config" }}
+,{ "pid":12345, "tid":16, "ts":1672225989074483, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989074537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672225989074543, "dur":1238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HP/OneDrive/Masast/Yar Oyunu Projem Son Hal/Super Car Racing_Data/boot.config" }}
+,{ "pid":12345, "tid":16, "ts":1672225989075825, "dur":129932, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672225989209458, "dur":1795, "ph":"X", "name": "ProfilerWriteOutput" }
+,
